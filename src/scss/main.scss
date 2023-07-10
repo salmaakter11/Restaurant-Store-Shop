@@ -1,0 +1,22 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/navbar";
+@import "components/header";
+@import "components/top_product";
+@import "components/slider";
+@import "components/brand";
+@import "components/shop";
+@import "components/recomended";
+@import "components/footer";
+@import "components/sproduct";
+@import "components/cart";
+@import "components/wishlist";
+@import "components/order";
+@import "components/order_confirmation";
